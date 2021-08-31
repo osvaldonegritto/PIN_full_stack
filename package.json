@@ -1,0 +1,13 @@
+{
+    "name": "PIN_FS",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass-compile": "sass styles/sass:styles/css",
+        "sass-watch": "sass --watch styles/sass:styles/css"
+    },
+    "devDependencies": {
+        "sass": "^1.38.2"
+    }
+}
